@@ -39,7 +39,7 @@ Following the Bronze → Silver → Gold architecture, each stage progressively 
 📝 Documenting: Maintain a data log for governance.
 
 # Clone the repository
-git clone https://github.com/AMANTYAGI7/SQL-Data-Warehouse-Project.git
+git clone https://github.com/Shivom33/SQL-Data-Warehouse-Project.git
 
 # Set up your SQL environment (SQL Server)
 
