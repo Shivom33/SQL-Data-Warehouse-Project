@@ -57,8 +57,6 @@ SQL – Core development
 Git – Version control
 Draw.io – Architecture diagrams
 
-👨‍💻 About Me
-I’m Aman Tyagi, a Computer Science Engineering graduate with a strong passion for Data Analytics and building scalable, insight-driven solutions. My work blends technical precision with a deep focus on turning raw data into meaningful business value.
 
 📄 License
 Licensed under the MIT License — free to use, modify, and contribute.
